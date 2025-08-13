@@ -5,9 +5,9 @@
 
 int main(){
 	printf("Mackenzie - FCI\n");
-	printf("Algoritmos e ");
-	printf("Prog. II\n");
-	printf("Turma 02N");
+	printf("Ciencia da Computacao\n");
+	printf("Algoritmos e Programacao II\n");
+	printf("Turma 02P");
 	
 	return 0;
 	
